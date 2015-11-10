@@ -36,3 +36,11 @@ textColorHint
 theme
 visibility
 wrap_content
+LinearLayout
+xmlns
+android
+http://schemas.android.com/pak/res/android
+orientation
+vertical
+fill_parent
+
